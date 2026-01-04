@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+deep-translator
+huggingface_hub
+gradio-client
+kling-creator>=0.5.0
+dublib==0.23.0
+Pillow
+g4f==0.5.7.3
+
